@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789236191152,
+      "tag": "0000_reflective_thunderball",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789236215326,
+      "tag": "0001_calm_mole_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789237512702,
+      "tag": "0002_premium_hawkeye",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1789240402064,
+      "tag": "0003_green_boomerang",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1789312006238,
+      "tag": "0004_cuddly_imperial_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1790221316264,
+      "tag": "0005_brown_saracen",
+      "breakpoints": true
+    }
+  ]
+}

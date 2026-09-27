@@ -1,0 +1,1 @@
+ALTER TABLE `mistakes` ADD `answer_parts` text DEFAULT '[]' NOT NULL;

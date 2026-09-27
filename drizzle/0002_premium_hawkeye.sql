@@ -1,0 +1,1 @@
+ALTER TABLE `mistakes` ADD `self_reported_weakness` text DEFAULT '' NOT NULL;
